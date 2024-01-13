@@ -1,0 +1,7 @@
+{
+  "name": "uyaguari_asistencia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
